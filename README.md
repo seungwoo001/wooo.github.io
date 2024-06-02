@@ -29,9 +29,6 @@ total은 설치된 총 메모리, free는 사용 가능한 메모리, used는 �
 
         # ps [option]
 
-ex)
-
-
 **-e** : 실행중인 모든 프로세스를 출력 (-A와 동일한 옵션)
 
 **-f** : 풀-포맷으로 리스트를 보여준다. UID, PID, PPID 등을 포함해서 출력해준다.
@@ -50,6 +47,8 @@ ex)
 
 위 처럼 여러 옵션들이 있지만, 주로 자주 사용하는 옵션으로는 ps -ef 옵션을 가장 많이 사용합니다.
 
+ex)
+![top](https://github.com/seungwoo001/wooo.github.io/blob/main/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C1.png)
 
 
   
