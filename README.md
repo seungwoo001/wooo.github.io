@@ -109,4 +109,8 @@ ex)
   
   **-l** :	신호(Signal)로 사용할 수 있는 신호(Signal) 이름들을 보여준다.
 
+  ex)
+
+  ![top](https://github.com/seungwoo001/wooo.github.io/blob/main/%EB%8B%A8%EC%88%9C_kill.png)
+
   
